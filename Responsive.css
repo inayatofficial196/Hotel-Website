@@ -1,0 +1,11 @@
+.checkbtn{
+    color: white;
+    font-size: 35px;
+    float: right;
+    margin: -64px 20px 0px 0px;
+    cursor: pointer;
+    display: none;
+}
+#check{
+    display: none;
+}
